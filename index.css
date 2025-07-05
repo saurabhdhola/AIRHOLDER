@@ -64,7 +64,7 @@
 .photo a {
     font-size: 35px;
     font-weight: 600;
-    color: rgb(237, 227, 227);
+    color: rgb(255, 255, 255);
 }
 
 li {
@@ -80,8 +80,27 @@ li {
     margin-right: 25px;
 }
 
-.intro {
+.heading {
     margin-left: 20px;
     border-bottom: 2px outset black;
-    border
+    
+}
+
+p {
+    
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 700;
+  
+}
+
+.end{
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 900;
+    margin-left: 20px;
+    padding: 5px;
+    background-color: lightgray;
+}
+
+footer {
+    text-align: center;
 }
