@@ -1,0 +1,11 @@
+.spelling {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 500;
+}
+.heading {
+    font-size: larger;
+    font-weight: bolder;
+}
+.head1{
+    margin-left: 10px;
+}
