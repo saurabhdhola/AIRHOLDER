@@ -9,3 +9,35 @@
 .head1{
     margin-left: 10px;
 }
+
+table , th, td {
+  border:1px solid black;
+  width: 90%;
+  border-collapse: collapse;
+  padding: 15px;
+  
+}
+
+table {
+   /* margi?n: 45px ; */
+   /* margin-block-end: 45px; */
+   margin-left: 5%;
+   
+   
+
+}
+table tbody>tr:nth-child(odd)>td, table tbody>tr:nth-child(odd)>th {
+    background-color: hsla(0, 84%, 17%, 0.251);
+}
+ a { 
+     color: rgb(92, 17, 17); 
+     text-decoration: none;
+     font-weight: bolder;
+     
+
+}
+
+span {
+   font-family: "Fira Sans", sans-serif;
+    font-weight: 900;
+}
